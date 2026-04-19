@@ -1,7 +1,4 @@
 .env
-*.env
-.env.*
 northwind.db
 .ipynb_checkpoints
 anaconda_projects
-.idea
